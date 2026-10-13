@@ -1,2 +1,3 @@
 # ITDCA0-22_Project_Eduvos
 Designing a database model for a Massive Multiplayer Online Role Playing Game to manage player subscriptions, character details, 8-slot item inventories, and error logging
+Designing a database model for a Massive Multiplayer Online Role Playing Game (MMORPG) to manage player subscriptions, character details, 8-slot item inventories, and error logging. This project will focus on Database Design Concepts and will cover Conceptual Data Modelling (ERD), Relational Schema mapping, intersection entities, recursive relationships, database normalisation from unnormalised structures (ONF) up to Third Normal Form (3NF), supertype/subtype structures, exclusive relationships (arcs), and the identification and resolution of fan traps and chasm traps.
